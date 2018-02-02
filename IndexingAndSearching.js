@@ -85,6 +85,6 @@ var para = [
   ]
 
   let orch = orchestrateUsers(para);
-//console.log(orchestrateUsers(para));
-console.log(searchUsers(orch, ["Admin", "User"], "companyId", "A2100"));
+console.log(orchestrateUsers(para));
+//console.log(searchUsers(orch, ["Admin", "User"], "companyId", "A2100"));
 

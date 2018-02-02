@@ -33,7 +33,7 @@ function Question3(){
         for(let object in data){
             try{
                 //get the total value at the current object. 
-                total += object.total;
+                total += object[total];
             }
             finally{
                  //if anothef object is encounted while iterating, call the function recursively
