@@ -1,1 +1,2 @@
-# Kurtosys_Grad_Challenge2
+#Basic JavaScript Functyionality
+
